@@ -228,7 +228,7 @@ Mac                      9 hrs 39 mins       ███████████�
   </tr>
 </table>
 
-<img width="120%" src="https://repobeats.axiom.co/api/embed/8591fffe9b26f729749153dd20e8a47abf73c5b7.svg" />
+<img width="120%" src="https://repobeats.axiom.co/api/embed/18d1d01c87921277b2bc6b39d9c2225e69835885.svg" />
 
 <!-- just img 图片 -->
 <img src="./assets/images/icon.png" /></div>
