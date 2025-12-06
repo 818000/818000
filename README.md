@@ -46,7 +46,6 @@
    ![Maven](http://img.shields.io/badge/-Maven-white?style=flat-square&logo=apachemaven&logoColor=bc2043)
    ![Vgo](http://img.shields.io/badge/-Vgo-white?style=flat-square&logo=go)
 
-</div>
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/grid-snake/grid-snake-dark.svg" />
