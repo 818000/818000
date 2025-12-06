@@ -57,19 +57,12 @@
 
 # 🙋 Hello
 
-<table>
-
-<tr><td>
-
 ### 🤺 About Me
 
 <p>&emsp;&emsp;Hi, I'm Kimi. Passionate about programming, photography, reading, and traveling.</p>
 <p>&emsp;&emsp;I love computer science and the internet industry, aspiring to become an excellent developer.</p>
 <p>&emsp;&emsp;We're making the world a better place, through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
-
-</td></tr>
-</table>
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="./assets/images/hr.gif" />
