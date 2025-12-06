@@ -74,9 +74,8 @@
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="./assets/images/hr.gif" />
 
-<div align="center">
-<table>
-<tr><td>
+<div align="left">
+
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
@@ -116,8 +115,6 @@ No Activity Tracked This Week
  Last Updated on 06/12/2025 02:14:44 UTC
 <!--END_SECTION:waka-->
 
-</td></tr>
-</table>
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
